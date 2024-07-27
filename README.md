@@ -8,7 +8,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
    https://github.com/Sebaslsst/Matrices/blob/main/elementos_pares
 3. **Imprimir los elementos impares de la matriz**
    https://github.com/Sebaslsst/Matrices/blob/main/elementos_impares
-4. **Imprimir los elementos que no esten en las esquinas**
+4. **Imprimir elementos que no esten en las esquinas**
    https://github.com/Sebaslsst/Matrices/blob/main/elementos_no_estan_en_la_esquina
 5. **Generar la matriz inversa**
     https://github.com/Sebaslsst/Matrices/blob/main/matriz_inversa
