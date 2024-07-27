@@ -3,7 +3,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 
 ## Estructura del Repositorio 
 1. **Imprimir los 4 elementos de la esquina**
-   
+   https://github.com/Sebaslsst/Matrices/blob/main/4_elementos_esquina
 2. **Imprimir los elementos pares de la matriz**
    
 3. **Imprimir los elementos impares de la matriz**
