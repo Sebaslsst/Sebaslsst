@@ -1,31 +1,45 @@
-## Taller de Programación 
-Este repositorio contiene las soluciones a los ejercicios del taller de programación
+# 👨‍💻 ¡Hola! Soy Sebastián Sánchez
 
-## Estructura del Repositorio 
-1. **Imprimir los 4 elementos de la esquina**
-- https://github.com/Sebaslsst/Matrices/blob/main/4_elementos_esquina
-2. **Imprimir los elementos pares de la matriz**
-- https://github.com/Sebaslsst/Matrices/blob/main/elementos_pares
-3. **Imprimir los elementos impares de la matriz**
-- https://github.com/Sebaslsst/Matrices/blob/main/elementos_impares
-4. **Imprimir elementos que no esten en las esquinas**
-- https://github.com/Sebaslsst/Matrices/blob/main/elementos_no_estan_en_la_esquina
-5. **Generar la matriz inversa**
-- https://github.com/Sebaslsst/Matrices/blob/main/matriz_inversa
-6. **Generar la matriz transpuesta**
-- https://github.com/Sebaslsst/Matrices/blob/main/matriz_traspuesta
-7. **Generar la matriz simetrica**
-- https://github.com/Sebaslsst/Matrices/blob/main/matriz_simetrica
-8. **Cuantas filas y cuantas columnas tienen una matriz**
-- https://github.com/Sebaslsst/Matrices/blob/main/cuantas_filas_y_columnas_hay
-9. **Suma de matrices**
-- https://github.com/Sebaslsst/Matrices/blob/main/suma_matriz
-10. **Resta de matrices**
-- https://github.com/Sebaslsst/Matrices/blob/main/restas_matriz
-11. **Multiplicación de matrices**
-- https://github.com/Sebaslsst/Matrices/blob/main/multiplicacion_matriz
-12. **División de matrices**
-- https://github.com/Sebaslsst/Matrices/blob/main/division_matriz
-13. **Potencia de matrices**
-- https://github.com/Sebaslsst/Matrices/blob/main/potencia_matriz
+### 🚀 Estudiante de Ingeniería en Computación 
 
+💻 Apasionado por la tecnología, el desarrollo de software y la innovación. Me gusta convertir ideas en soluciones mediante el código, explorar nuevas herramientas y aprender algo nuevo en cada proyecto.
+
+* 🎓 Estudiante de **Ingeniería en Computación**.
+* 💡 Interesado en el desarrollo de software, la inteligencia artificial y la ciencia de datos.
+* 🐧 Usuario de Linux.
+* ☁️ Explorando el mundo de la computación en la nube con AWS y Azure.
+* 🛠️ Siempre aprendiendo, experimentando y construyendo nuevos proyectos.
+* 🎯 Mi objetivo: crear tecnología que marque la diferencia.
+
+---
+
+### ⚡ Tecnologías y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,django,git,github,linux,vscode,aws,azure,docker&perline=5" />
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Mi actividad en GitHub
+
+<p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
+</p>
+
+---
+
+### 🌐 Conectemos
+
+💬 Siempre abierto a aprender, compartir ideas y colaborar en proyectos tecnológicos.
+
+**«La mejor forma de aprender a programar es construyendo algo que valga la pena».**
+
+⭐ Gracias por visitar mi perfil.
