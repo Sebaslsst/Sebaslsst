@@ -23,14 +23,6 @@
 
 ---
 
-### 🐍 Mi actividad en GitHub
-
-<p>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
-</p>
-
----
-
 ### 🌐 Conectemos
 
 💬 Siempre abierto a aprender, compartir ideas y colaborar en proyectos tecnológicos.
