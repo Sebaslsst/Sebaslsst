@@ -1,6 +1,6 @@
-# 👨‍💻 ¡Hola! Soy Sebastián Sánchez
+# 👨‍💻 ¡Hola! Soy Sebastian Sánchez
 
-### 🚀 Estudiante de Ingeniería en Computación 
+### 🚀 Estudiante de Ingeniería en Computación
 
 💻 Apasionado por la tecnología, el desarrollo de software y la innovación. Me gusta convertir ideas en soluciones mediante el código, explorar nuevas herramientas y aprender algo nuevo en cada proyecto.
 
@@ -13,12 +13,10 @@
 
 ---
 
-
-### 📊 GitHub Stats
+### 🐍 Mi actividad en GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
 </p>
 
 ---
