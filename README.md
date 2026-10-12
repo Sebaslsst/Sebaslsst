@@ -13,11 +13,6 @@
 
 ---
 
-### ⚡ Tecnologías y herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,django,git,github,linux,vscode,aws,azure,docker&perline=5" />
-</p>
 
 ### 📊 GitHub Stats
 
